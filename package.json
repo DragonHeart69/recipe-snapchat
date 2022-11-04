@@ -1,0 +1,10 @@
+{
+  "id": "snapchat",
+  "name": "snapchat",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/DragonHeart69/recipe-snapchat",
+  "config": {
+    "serviceURL": "https://web.snapchat.com/"
+  }
+}
